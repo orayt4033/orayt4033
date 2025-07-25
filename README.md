@@ -14,4 +14,3 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oryat4033&show_icons=true&theme=synthwave)
