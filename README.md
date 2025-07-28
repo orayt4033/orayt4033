@@ -1,4 +1,4 @@
-<!-- 🎀 상단 캡슐 배너 -->
+<!-- 🎀 상단 헤더 배너 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Seongchan's%20GitHub&fontSize=40&fontColor=000000&animation=fadeIn" />
 </div>
@@ -14,11 +14,13 @@
   </div>
 </div>
 
-<!-- 🍓 귀여운 중간 장식 (고양이 gif) -->
 <br>
+
+<!-- 🐷 피글렛 gif 삽입 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat" />
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200" alt="piglet gif" />
 </div>
+
 <br>
 
 <!-- 📫 Contact -->
@@ -35,3 +37,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFC0CB&height=120&section=footer" />
 </div>
+
