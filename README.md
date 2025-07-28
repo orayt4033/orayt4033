@@ -16,9 +16,9 @@
 
 <br>
 
-<!-- 🐷 피글렛 gif 삽입 -->
+<!-- 🌟 중간 귀여운 장식 이미지 (산리오 마이멜로디 gif) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200" alt="piglet gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNzMmQyNjNza2x5dTZlczg4YWh3OWZ0MWM1M3lrc3R0cWhmZ3AxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5VKbvrjxpVJCM/giphy.gif" width="200" alt="cute melody gif" />
 </div>
 
 <br>
